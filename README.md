@@ -16,7 +16,17 @@
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
 
-### Let's be friends! 😃
-<img align="center" width="180" height="180" src="gifcat.gif">
-- <a href="https://www.linkedin.com/in/gloria-monique/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- <a href="https://www.instagram.com/monxqueen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<h1 align="center">
+✨ Where you can find me ✨
+  
+  <img align="left" width="180" height="180" src="gifcat.gif">
+  <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/gloria-monique/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/monxqueen/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+</h1>
