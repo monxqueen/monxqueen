@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, oi, hola, 안녕하세요 👋 I'm Monique </h1> 
+<h1 align="center"> Hey there 👋 I'm Monique </h1> 
 <img src= "MONIQUE.png" alt="banner that says Monique Silva"/>
 <h2 align="center"> 💚 Android developer 💚 </h3>
 
