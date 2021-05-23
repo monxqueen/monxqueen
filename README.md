@@ -7,9 +7,12 @@
 - HTML and CSS
 - Python
 
-## Let's be friends! 😃
+## Let's be friends! 😃 
+<img align="left" width="150" height="150" src="gifcat.gif">
 - Linkedin
 - Instagram
+
+
 <!--
 **monxqueen/monxqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
