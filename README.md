@@ -7,8 +7,7 @@
 - HTML and CSS
 - Python
 
-## Let's be friends! 😃 
-<img align="left" width="150" height="150" src="gifcat.gif">
+## Let's be friends! 😃 <img align="left" width="150" height="150" src="gifcat.gif">
 - Linkedin
 - Instagram
 
