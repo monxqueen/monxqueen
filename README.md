@@ -16,9 +16,6 @@
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
 
-### 
-<img width="180" height="180" src="gifcat.gif">
-
 <h1 align="center">
 ✨ Where you can find me ✨
   
@@ -30,5 +27,6 @@
   <a href="https://www.instagram.com/monxqueen/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+    <img align="center" width="180" height="180" src="gifcat.gif">
 </p>
 </h1>
