@@ -1,13 +1,20 @@
-<h1 align="center"> Hi 👋 Oi 👋 Hola 👋 안녕하세요 👋 </h1> 
+<h1 align="center"> Hi 👋 Oi 👋 Hola 👋 안녕하세요 👋 I'm Monique </h1> 
 <img src= "MONIQUE.png" alt="banner that says Monique Silva"/>
+<h3 align="center"> 💚 Android developer 💚 </h3>
 
-## My favorite stacks:
+
+### 👩‍💻 My favorite stacks
 - Kotlin 💚
 - JavaScript
 - HTML and CSS
 - Python
 
-## Let's be friends! 😃 <img align="left" width="150" height="150" src="gifcat.gif">
+### 👧 A bit about myself:
+- I'm 19 years old and I live in Pernambuco, Brazil.
+- I'm an Information Systems undergraduate student at Universidade de Pernambuco
+- Dancing is one of my biggest hobbies (specially to k-pop music 😆)
+
+### Let's be friends! 😃 <img align="left" width="150" height="150" src="gifcat.gif">
 - Linkedin
 - Instagram
 
