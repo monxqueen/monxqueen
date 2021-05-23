@@ -4,12 +4,14 @@
 
 
 ### 👩‍💻 My favorite stacks
-- Kotlin 💚
-- JavaScript
-- HTML and CSS
-- Python
+- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 💚
+- <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 👧 A bit about myself:
+### 👧 A it about myself:
 - I'm 19 years old and I live in Pernambuco, Brazil.
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
