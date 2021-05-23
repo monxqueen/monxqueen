@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋 Oi 👋 Hola 👋 안녕하세요 👋 I'm Monique </h1> 
+<h1 align="center"> Hi, oi, hola, 안녕하세요 👋 I'm Monique </h1> 
 <img src= "MONIQUE.png" alt="banner that says Monique Silva"/>
-<h3 align="center"> 💚 Android developer 💚 </h3>
+<h2 align="center"> 💚 Android developer 💚 </h3>
 
 
 ### 👩‍💻 My favorite stacks
@@ -11,14 +11,14 @@
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 👧 A it about myself:
+### 👧 A bit about myself:
 - I'm 19 years old and I live in Pernambuco, Brazil.
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
 
-### Let's be friends! 😃 <img align="left" width="150" height="150" src="gifcat.gif">
-- Linkedin
-- Instagram
+### Let's be friends! 😃 <img align="left" width="180" height="180" src="gifcat.gif">
+- <a href="https://www.linkedin.com/in/gloria-monique/"<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.instagram.com/monxqueen/"<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
 <!--
