@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there 👋 I'm Monique </h1> 
-<img src= "MONIQUE.png" alt="banner that says Monique Silva"/>
+<img src= "header.png" alt="banner that says Monique Silva - android developer"/>
 <h2 align="center"> 💚 Android developer 💚 </h3>
 
 
