@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 👧 A bit about myself:
+### 👧 A bit about myself
 - I'm 19 years old and I live in Pernambuco, Brazil.
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
