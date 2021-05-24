@@ -1,7 +1,5 @@
 <h1 align="center"> Hey there 👋 I'm Monique </h1> 
 <img src= "header.png" alt="banner that says Monique Silva - android developer"/>
-<h2 align="center"> 💚 Android developer 💚 </h3>
-
 
 ### 👩‍💻 My favorite stacks
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
