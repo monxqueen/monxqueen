@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### 👧 A bit about myself
-- I'm 19 years old and I live in Pernambuco, Brazil.
+- I'm 20 years old and I live in Pernambuco, Brazil.
 - I'm an Information Systems undergraduate student at Universidade de Pernambuco
 - Dancing is one of my biggest hobbies (specially to k-pop music 😆)
 
