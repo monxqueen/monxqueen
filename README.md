@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### 👧 A little bit about myself
-- I'm a 22-year-old Android developer from Brazil.
+- I'm a 24-year-old Android developer from Brazil.
+- Currently working for LATAM's greatest marketplace company: Mercado Livre.
 - Majored in Information Systems at Universidade de Pernambuco.
 
 <h1 align="center">
